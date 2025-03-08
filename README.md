@@ -13,3 +13,6 @@ This project detects whether a person is wearing a mask using a Convolutional Ne
 
 ## Download Model
 [Click here to download the model](https://drive.google.com/file/d/1LD-MiAjPi9zHMPgPYleqAQ_mIOmlEh1j/view?usp=drive_link)
+
+## Download Dataset
+[Click here to download dataset](https://drive.google.com/drive/folders/1LS-IJoNfBNPyiVATTkIEN4MgUwK2mfk4?usp=drive_link)
